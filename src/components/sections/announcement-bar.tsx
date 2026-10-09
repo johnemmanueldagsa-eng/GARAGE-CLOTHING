@@ -58,7 +58,7 @@ const AnnouncementBar = () => {
                 <span className="text-white tabular-nums font-black">
                   {formatTime(timeLeft)}
                 </span>{" "}
-                minutes left to unlock your SHEIN reward
+                minutes left to unlock your Garage Clothing reward
               </p>
             </div>
         </div>
