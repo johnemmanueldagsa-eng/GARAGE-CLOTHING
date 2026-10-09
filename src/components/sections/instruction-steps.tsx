@@ -54,7 +54,7 @@ export default function InstructionSteps() {
 
   return (
     <section className="relative w-full max-w-md mx-auto px-4 sm:px-5 mb-4 mt-3">
-      <div className="relative rounded-[1.5rem] sm:rounded-[2rem] p-2 sm:p-4 bg-white/5 backdrop-blur-md border-2 border-[#000000]/25 shadow-[0_8px_32_rgba(234, 108, 2)] overflow-hidden group/box transition-all duration-500 hover:border-[#000000]/50 hover:scale-[1.01]">
+      <div className="relative rounded-[1.5rem] sm:rounded-[2rem] p-2 sm:p-4 bg-white/5 backdrop-blur-md border-2 border-[#cb0d63]/25 shadow-[0_8px_32_rgba(234, 108, 2)] overflow-hidden group/box transition-all duration-500 hover:border-[#cb0d63]/50 hover:scale-[1.01]">
         {/* Shimmer Effect */}
         <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/10 to-transparent -left-full group-hover/box:animate-shine pointer-events-none" />
         
