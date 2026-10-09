@@ -5,15 +5,15 @@ import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "SHEIN Gift Card",
-  description: "Participate in the SHEIN Rewards program and get a chance to claim a $500 gift card.",
+  title: "Garage Clothing Gift Card",
+  description: "Participate in the Garage Clothing Rewards program and get a chance to claim a $500 gift card.",
     icons: {
     icon: [
-      { url: "https://i.imgur.com/RiJIipy.jpeg", type: "image/png" },
+      { url: "https://i.imgur.com/RWhnPAx.png", type: "image/png" },
     ],
-    shortcut: "https://i.imgur.com/RiJIipy.jpeg",
+    shortcut: "https://i.imgur.com/RWhnPAx.png",
     apple: [
-      { url: "https://i.imgur.com/RiJIipy.jpeg", sizes: "500x500", type: "image/png" },
+      { url: "https://i.imgur.com/RWhnPAx.png", sizes: "500x500", type: "image/png" },
     ],
     other: [
       {
